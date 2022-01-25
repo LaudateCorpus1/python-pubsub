@@ -5,6 +5,23 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+## [2.10.0](https://github.com/googleapis/python-pubsub/compare/v2.9.0...v2.10.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#571](https://github.com/googleapis/python-pubsub/issues/571)) ([cdda762](https://github.com/googleapis/python-pubsub/commit/cdda762f6d15d96f5e2d7fac975f3494dc49eaa9))
+
+
+### Bug Fixes
+
+* refactor client classes for safer type checking ([#552](https://github.com/googleapis/python-pubsub/issues/552)) ([7f705be](https://github.com/googleapis/python-pubsub/commit/7f705beb927383f14b9d56f0341ee0de101f7c05))
+
+
+### Documentation
+
+* Docs have inconsistent default values for max_latency and max_bytes ([#572](https://github.com/googleapis/python-pubsub/issues/572)) ([d136dfd](https://github.com/googleapis/python-pubsub/commit/d136dfdb69ebeebd1411a1415f863b94d07078f0))
+
 ## [2.9.0](https://www.github.com/googleapis/python-pubsub/compare/v2.8.0...v2.9.0) (2021-11-10)
 
 
